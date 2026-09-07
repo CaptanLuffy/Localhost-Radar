@@ -1,0 +1,7 @@
+Localhost Radar v0.3.0
+Build: 2026-08-30-B
+
+VISIBLE CHECK:
+The window title and top header MUST show:
+  v0.3.0 • BUILD 2026-08-30-B
+If you do not see that text, an older Localhost Radar copy is running.
